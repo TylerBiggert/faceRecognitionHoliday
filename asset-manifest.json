@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/faceRecognitionHoliday/static/css/main.2cce8147.chunk.css",
+    "main.js": "/faceRecognitionHoliday/static/js/main.7688d3c7.chunk.js",
+    "main.js.map": "/faceRecognitionHoliday/static/js/main.7688d3c7.chunk.js.map",
+    "runtime~main.js": "/faceRecognitionHoliday/static/js/runtime~main.537c5b9f.js",
+    "runtime~main.js.map": "/faceRecognitionHoliday/static/js/runtime~main.537c5b9f.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/faceRecognitionHoliday/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.e6df7d27.chunk.js": "/faceRecognitionHoliday/static/js/2.e6df7d27.chunk.js",
+    "static/js/2.e6df7d27.chunk.js.map": "/faceRecognitionHoliday/static/js/2.e6df7d27.chunk.js.map",
+    "index.html": "/faceRecognitionHoliday/index.html",
+    "precache-manifest.fec1c930bd967edbb719a5fbb1ccf3be.js": "/faceRecognitionHoliday/precache-manifest.fec1c930bd967edbb719a5fbb1ccf3be.js",
+    "service-worker.js": "/faceRecognitionHoliday/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/faceRecognitionHoliday/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/faceRecognitionHoliday/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/faceRecognitionHoliday/static/media/logo.5d5d9eef.svg"
+  }
+}
